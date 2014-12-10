@@ -116,10 +116,12 @@ body {
 	min-width: 303px;
 }
 
-header, .do, .about, .contact {
+header, .do, .about, .contact, .profile-text{
 	color: #fff;
 }
-
+a{
+	color: #fff;
+}
 .block {
 	padding-left: 8.33%; /* 100px or 5em */
 	padding-right: 8.33%; /* 100px or 5em */
